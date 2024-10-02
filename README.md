@@ -1,2 +1,2 @@
-# projeto-tpa
+# Atividades de TPA - Técnicas de programação e algoritmos
 Exemplos práticos de algoritmos usando Portugol - com portugol.dev
