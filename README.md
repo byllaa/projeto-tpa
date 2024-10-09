@@ -13,4 +13,10 @@ Exemplos práticos de algoritmos, explicações de atividades e de plataformas u
 </br>E depois você irá chupar ela.
 </br></br>
 📌 O que é um fluxograma?
-</br> É um diagrama que descreve um processo, sistema ou algoritmo de computador.
+</br> É um diagrama que descreve um processo, sistema ou algoritmo de computador.</br>
+</br><img src="fluxograma.png" width=500 height=500 > 
+</br></br>
+📌 O que é pseudocódigo (também conhecido como Linguagem Estruturada ou portugol)?
+</br>É uma forma de representar código, sejam algoritmos, funções ou outros processos, usando uma combinação de linguagem </br>natural e elementos que se parecem com linguagem de programação.
+
+#### Esses são os três tipos mais utilizados de algoritmos são a descrição narrativa, o fluxograma e o pseudocódigo.
