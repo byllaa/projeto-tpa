@@ -16,12 +16,12 @@ finitos e operados sistematicamente.
 </br>
 ### 📌 O que é um fluxograma?
 É um diagrama que descreve um processo, sistema ou algoritmo de computador.</br>
-</br><img src="fluxograma.png" width=500 height=500> 
+</br><img src="fluxograma.png" width=400 height=400> 
 </br></br>
 ### 📌 O que é pseudocódigo (também conhecido como Linguagem Estruturada ou portugol)?
 É uma forma de representar código, sejam algoritmos, funções ou outros processos, usando uma combinação de linguagem </br>
 natural e elementos que se parecem com linguagem de programação.</br>
-</br><img src="pseudocodigo.png" width=600 height=600> 
+</br><img src="pseudocodigo.png"> 
 
 #### Esses são os três tipos mais utilizados de algoritmos são a descrição narrativa, o fluxograma e o pseudocódigo.
 
@@ -32,4 +32,6 @@ Portugol, uma sigla que representa “Pseudo-código em Português”, é uma li
 aprendizado dos fundamentos da programação. Idealizada para ser uma ferramenta educacional, sua maior vantagem é a </br>
 utilização de uma sintaxe similar ao português, facilitando o entendimento de conceitos complexos de programação </br>
 por iniciantes e estudantes. Em Portugol, as instruções para realizar operações matemáticas, condicionais, loops </br>
-e manipulação de dados são escritas de forma intuitiva, tornando a aprendizagem da lógica de programação mais acessível.
+e manipulação de dados são escritas de forma intuitiva, tornando a aprendizagem da lógica de programação mais acessível.</br>
+</br><img src="portugol.png"> 
+#### (Interface Portugol)
