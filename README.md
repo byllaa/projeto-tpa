@@ -35,3 +35,12 @@ por iniciantes e estudantes. Em Portugol, as instruções para realizar operaç�
 e manipulação de dados são escritas de forma intuitiva, tornando a aprendizagem da lógica de programação mais acessível.</br>
 </br><img src="portugol.png"> 
 #### (Interface Portugol)
+
+### Biblioteca
+Em todo o algoritmo que se possa elaborar, existe a possibilidade da utilização de um
+conjunto de funções e comandos já existentes. A estes conjuntos de funções e
+comandos, dá-se o nome de Bibliotecas.
+As bibliotecas contém códigos e dados auxiliares, que provém serviços a programas
+independentes, o que permite o compartilhamento e a alteração de código e dados de
+forma modular. Existem diversos tipos de bibliotecas, cada uma com funções para
+atender a determinados problemas.
