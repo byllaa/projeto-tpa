@@ -42,3 +42,8 @@ e manipulação de dados são escritas de forma intuitiva, tornando a aprendizag
 
 ### Link para o acesso ao Portugol
 https://portugol.dev/
+
+### Tipos de Dados
+#### Inteiro: 
+Qaulquer número inteiro, negativo, nulo ou positivo.
+exemplo: -15, 0, 101
