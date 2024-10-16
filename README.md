@@ -19,7 +19,7 @@ finitos e operados sistematicamente.
 </br><img src="fluxograma.png" width=400 height=400> 
 </br></br>
 ### 📌 O que é pseudocódigo (também conhecido como Linguagem Estruturada ou portugol)?
-É uma forma de representar código, sejam algoritmos, funções ou outros processos, usando uma combinação de linguagem </br>
+É uma forma de representar código, sejam algoritmos, funções ou outros processos, usando uma combinação de linguagem</br>
 natural e elementos que se parecem com linguagem de programação.</br>
 </br><img src="pseudocodigo.png"> 
 
