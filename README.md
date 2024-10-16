@@ -14,16 +14,20 @@ finitos e operados sistematicamente.
 </br>Abra a embalagem da mesma
 </br>E depois, você irá chupar ela.
 </br>
+
+## Três tipos de algoritmos mais utilizados: Descrição narrativa, Fluxograma e Pseudocódigo.
+
 ### 📌 O que é um fluxograma?
 É um diagrama que descreve um processo, sistema ou algoritmo de computador.</br>
+</br> Tipos de formas:
+</br>
+</br> Exemplo:
 </br><img src="fluxograma.png" width=400 height=400> 
 </br></br>
 ### 📌 O que é pseudocódigo (também conhecido como Linguagem Estruturada ou portugol)?
 É uma forma de representar código, sejam algoritmos, funções ou outros processos, usando uma combinação de linguagem</br>
 natural e elementos que se parecem com linguagem de programação.</br>
 </br><img src="pseudocodigo.png"> 
-
-#### Esses são os três tipos mais utilizados de algoritmos são a descrição narrativa, o fluxograma e o pseudocódigo.
 
 ## Introdução a Linguagem Estruturada (Portugol)
 
@@ -36,11 +40,4 @@ e manipulação de dados são escritas de forma intuitiva, tornando a aprendizag
 </br><img src="portugol.png"> 
 #### (Interface Portugol)
 
-### Biblioteca
-Em todo o algoritmo que se possa elaborar, existe a possibilidade da utilização de um
-conjunto de funções e comandos já existentes. A estes conjuntos de funções e
-comandos, dá-se o nome de Bibliotecas.
-As bibliotecas contém códigos e dados auxiliares, que provém serviços a programas
-independentes, o que permite o compartilhamento e a alteração de código e dados de
-forma modular. Existem diversos tipos de bibliotecas, cada uma com funções para
-atender a determinados problemas.
+### 
