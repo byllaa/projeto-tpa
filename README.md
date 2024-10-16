@@ -20,7 +20,7 @@ finitos e operados sistematicamente.
 ### 📌 O que é um fluxograma?
 É um diagrama que descreve um processo, sistema ou algoritmo de computador.</br>
 </br> Tipos de formas:
-</br>
+</br><img src="formas_portugol.png"> 
 </br> Exemplo:
 </br><img src="fluxograma.png" width=400 height=400> 
 </br></br>
