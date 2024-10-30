@@ -46,15 +46,10 @@ https://portugol.dev/
 ### Como criar um algoritmo do zero?
 #### Passo a passo: como criar um algoritmo no Portugol do zero
 Definir o problema: Primeiro, é necessário entender claramente qual é o problema que você deseja resolver; </br>
-finitos e operados sistematicamente.
 Decompor o problema: Divida o problema em etapas menores; </br>
-finitos e operados sistematicamente.
 Definir as variáveis; </br>
-finitos e operados sistematicamente.
 Escrever o código; </br>
-finitos e operados sistematicamente.
 Testar e depurar.
-finitos e operados sistematicamente.
 
 ### Tipos de Dados
 #### Inteiro: 
