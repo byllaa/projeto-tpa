@@ -19,8 +19,8 @@ finitos e operados sistematicamente.
 
 ### O que é Descrição narrativa?
 É uma forma de representação de algoritmos que utiliza linguagem natural. Nesse tipo de descrição, o algoritmo </br>
-é descrito em português de forma simples, sem detalhes de como realizar os comandos.
-
+é descrito em português de forma simples, sem detalhes de como realizar os comandos.</br>
+</br><img 
 
 ### 📌 O que é um fluxograma?
 É um diagrama que descreve um processo, sistema ou algoritmo de computador.</br>
