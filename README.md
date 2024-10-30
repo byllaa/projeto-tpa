@@ -43,6 +43,14 @@ e manipulação de dados são escritas de forma intuitiva, tornando a aprendizag
 ### Link para o acesso ao Portugol
 https://portugol.dev/
 
+### Como criar um algoritmo do zero?
+#### Passo a passo: como criar um algoritmo no Portugol do zero
+Definir o problema: Primeiro, é necessário entender claramente qual é o problema que você deseja resolver;
+Decompor o problema: Divida o problema em etapas menores;
+Definir as variáveis;
+Escrever o código;
+Testar e depurar.
+
 ### Tipos de Dados
 #### Inteiro: 
 Qaulquer número inteiro, negativo, nulo ou positivo.
