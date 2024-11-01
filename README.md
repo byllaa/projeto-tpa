@@ -89,10 +89,10 @@ Armazenar valores que não pertencem aos números inteiros.
 Os operadores são meios pelo qual incrementamos, decrementamos, comparamos e avaliamos dados dentro do </br>
 computador. Temos quatro tipos de operadores:
 
-➢ Operador de Atribuição
+Operador de Atribuição
 
-➢ Operadores Aritméticos
+Operadores Aritméticos
 
-➢ Operadores Relacionais
+Operadores Relacionais
 
-➢ Operadores Lógicos
+Operadores Lógicos
