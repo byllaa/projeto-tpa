@@ -59,5 +59,13 @@ Testar e depurar.
 
 ### Tipos de Dados
 #### Inteiro: 
-Qaulquer número inteiro, negativo, nulo ou positivo.
-exemplo: -15, 0, 101
+Qualquer número inteiro, negativo, nulo ou positivo.
+Exemplo: -15, 0, 101
+#### Real: 
+Qualquer número real, negativo, nulo ou positivo.
+Exemplo: -1, -0.5, 0, 5, 9.5
+#### Caracter: 
+Qualquer conjunto de caracteres alfanuméricos.
+Exemplo: "AB", "123", "A123", "CASA"
+#### Lógico:
+Conjunto de valores (FALSO ou VERDADEIRO)
