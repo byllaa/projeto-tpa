@@ -69,3 +69,18 @@ Qualquer conjunto de caracteres alfanuméricos.
 Exemplo: "AB", "123", "A123", "CASA"
 #### Lógico:
 Conjunto de valores (FALSO ou VERDADEIRO)
+
+#### Tipo Cadeia: 
+Armazenar em uma variável, um texto ou uma quantidade grande de caracteres.
+
+#### Tipo Caracter:
+Uso de símbolos, letras ou outro tipo de conteúdo.
+
+#### Tipo Inteiro: 
+Utilização de valores inteiros em um algoritmo.
+
+#### Tipo Lógico:
+Trabalhar com informações do tipo verdadeiro e falso.
+
+#### Tipo Real: 
+Armazenar valores que não pertencem aos números inteiros.
