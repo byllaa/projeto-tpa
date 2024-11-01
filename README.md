@@ -108,9 +108,17 @@ idade = anoAtual – anoNascimento
 ### Operadores de aritméticos
 Permitem realizar uma operação matemática
 
-Hierarquia das Operações Aritméticas
+#### Hierarquia das Operações Aritméticas
 
 1o ( ) Parênteses </br>
 2o * * Exponenciação </br>
 3o * / Multiplicação, divisão (o que aparecer primeiro) </br>
 4o + ou - (o que aparecer primeiro)
+
+<img src="operacoes.png" width=500>
+
+### Operadores Relacionais
+Os operadores relacionais são utilizados para comparar caracteres,
+
+números, variáveis e expressões. Estes operadores sempre retornam
+valores lógicos (verdadeiro/falso, true/false ou 0/1).
