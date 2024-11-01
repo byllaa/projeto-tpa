@@ -118,7 +118,15 @@ Permitem realizar uma operação matemática
 <img src="operacoes.png" width=500>
 
 ### Operadores Relacionais
-Os operadores relacionais são utilizados para comparar caracteres,
+Os operadores relacionais são utilizados para comparar caracteres, números, variáveis e expressões. Estes </br>
+operadores sempre retornam valores lógicos (verdadeiro/falso, true/false ou 0/1).
 
-números, variáveis e expressões. Estes operadores sempre retornam
-valores lógicos (verdadeiro/falso, true/false ou 0/1).
+</br><img src="relacionais.png" width=500> 
+
+### Operadores Lógicos
+Os operadores lógicos servem para combinar resultados de expressões, retornando se o resultado final </br>
+é verdadeiro ou falso.
+</br><img src="logicos.png" width=500> 
+
+### 📌 Teste de mesa
+Após desenvolver um algoritmo, o mesmo deve sempre ser testado. Este teste é chamado de TESTE DE MESA, que significa seguir as instruções do algoritmo de maneira precisa para verificar se o procedimento utilizado está correto ou não.
