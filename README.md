@@ -96,3 +96,21 @@ computador. Temos quatro tipos de operadores:
  • Operadores Relacionais
 
  • Operadores Lógicos
+
+### Operadores de atribuição
+O operador de atribuição em Algoritmos é representado pela seta ou sinal de igual, indicando que algum valor </br>
+será atribuído em alguma variável.
+
+dobro = num * 2 </br>
+soma = num1 + num 2 </br>
+idade = anoAtual – anoNascimento
+
+### Operadores de aritméticos
+Permitem realizar uma operação matemática
+
+Hierarquia das Operações Aritméticas
+
+1o ( ) Parênteses </br>
+2o * * Exponenciação </br>
+3o * / Multiplicação, divisão (o que aparecer primeiro) </br>
+4o + ou - (o que aparecer primeiro)
