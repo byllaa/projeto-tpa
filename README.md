@@ -130,3 +130,7 @@ Os operadores lógicos servem para combinar resultados de expressões, retornand
 
 ### 📌 Teste de mesa
 Após desenvolver um algoritmo, o mesmo deve sempre ser testado. Este teste é chamado de TESTE DE MESA, que significa seguir as instruções do algoritmo de maneira precisa para verificar se o procedimento utilizado está correto ou não.
+
+Veja o exemplo, para o teste de mesa representando o algoritmo para calcular o dobro de um número digitado pelo usuário.
+
+</br><img src="testedemesa.png" width=500> 
