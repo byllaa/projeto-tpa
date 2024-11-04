@@ -133,4 +133,4 @@ Após desenvolver um algoritmo, o mesmo deve sempre ser testado. Este teste é c
 
 Veja o exemplo, para o teste de mesa representando o algoritmo para calcular o dobro de um número digitado pelo usuário.
 
-</br><img src="testedemesa.png" width=500> 
+</br><img src="testedemesa0.png" width=500> 
